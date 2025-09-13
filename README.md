@@ -30,6 +30,8 @@ The overlay will appear automatically.
 
 Use F2 / F3 / F4 to control visibility and interactivity.
 
+Go to task manager to close it.
+
 ⚠️ Do not modify the contents of the packaged folder, or the program may not work correctly.
 
 Notes
@@ -37,6 +39,8 @@ Notes
 The overlay works even on borderless fullscreen games.
 
 This is a local-only tool, no server or data collection.
+
+Also I don't plan on updating it at all so have fun with this little project.
 
 From france with love,
 
