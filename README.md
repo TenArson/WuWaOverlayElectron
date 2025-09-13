@@ -34,7 +34,7 @@ How to install (for non-GitHub users)
 
 5.Double-click WuWaOverlay.exe to launch the overlay.
 
-6.Use F2 / F3 / F4 to control the overlay.
+6.Use F2 / F3 / F4 / F5 to control the overlay.
 
 7.To close, go to the Task Manager and end WuWaOverlay.exe if needed.
 
@@ -42,11 +42,15 @@ How to install (for non-GitHub users)
 
 Notes
 
+Be sure to unbind your F keys ingame of course to make those keys work
+
+This needs admin clearance to be able to function because windows locks the f keys down on games for some reason
+
 The overlay works even on borderless fullscreen games.
 
 This is a local-only tool, no server or data collection.
 
-I don’t plan on updating it, so just have fun with this little project!
+I don’t plan on updating it unless its broken, so just have fun with this little project!
 
 From France with love,
 Ten (TenWebs)
