@@ -24,19 +24,17 @@ F5 → Close the overlay as a whole
 
 How to install (for non-GitHub users)
 
-1.Go to this repo: WuWaOverlayElectron
+1.Click the green Code button → Download ZIP
 
-2.Click the green Code button → Download ZIP
+2.Extract the ZIP file somewhere on your PC.
 
-3.Extract the ZIP file somewhere on your PC.
+3.Open the folder WuWaOverlay-win32-x64.
 
-4.Open the folder WuWaOverlay-win32-x64.
+4.Double-click WuWaOverlay.exe to launch the overlay.
 
-5.Double-click WuWaOverlay.exe to launch the overlay.
+5.Use F2 / F3 / F4 / F5 to control the overlay.
 
-6.Use F2 / F3 / F4 / F5 to control the overlay.
-
-7.To close, go to the Task Manager and end WuWaOverlay.exe if needed.
+6.To close it, use F5 or go to the Task Manager and end WuWaOverlay.exe if needed.
 
 ⚠️ Do not modify the contents of the folder, or the program may not work correctly.
 
