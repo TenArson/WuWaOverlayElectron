@@ -1,5 +1,3 @@
-WuWaOverlayElectron
-
 Overlay for Wuthering Waves that shows the interactive map on top of your game.
 
 Features
@@ -47,6 +45,8 @@ This needs admin clearance to be able to function because windows locks the f ke
 The overlay works even on borderless fullscreen games.
 
 This is a local-only tool, no server or data collection.
+
+⚠️ USE AT YOUR OWN RISK I AM NOT RESPONSIBLE FOR ANY KIND OF PUNISHEMENT FROM THE GAME ⚠️ the overlay should be safe from any form of sanctions but i have to disclose it because i do not know the rules for this kind of things
 
 I don’t plan on updating it unless its broken, so just have fun with this little project!
 
