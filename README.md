@@ -20,19 +20,23 @@ F3 → Hide overlay
 
 F4 → Toggle interactive / opaque
 
-Installation / Usage
+How to install (for non-GitHub users)
 
-Download the packaged folder WuWaOverlay-win32-x64 from this repo.
+1.Go to this repo: WuWaOverlayElectron
 
-Open the folder and run WuWaOverlay.exe.
+2.Click the green Code button → Download ZIP
 
-The overlay will appear automatically.
+3.Extract the ZIP file somewhere on your PC.
 
-Use F2 / F3 / F4 to control visibility and interactivity.
+4.Open the folder WuWaOverlay-win32-x64.
 
-Go to task manager to close it.
+5.Double-click WuWaOverlay.exe to launch the overlay.
 
-⚠️ Do not modify the contents of the packaged folder, or the program may not work correctly.
+6.Use F2 / F3 / F4 to control the overlay.
+
+7.To close, go to the Task Manager and end WuWaOverlay.exe if needed.
+
+⚠️ Do not modify the contents of the folder, or the program may not work correctly.
 
 Notes
 
@@ -40,8 +44,7 @@ The overlay works even on borderless fullscreen games.
 
 This is a local-only tool, no server or data collection.
 
-Also I don't plan on updating it at all so have fun with this little project.
+I don’t plan on updating it, so just have fun with this little project!
 
-From france with love,
-
+From France with love,
 Ten (TenWebs)
