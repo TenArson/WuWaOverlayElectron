@@ -37,3 +37,7 @@ Notes
 The overlay works even on borderless fullscreen games.
 
 This is a local-only tool, no server or data collection.
+
+From france with love,
+
+Ten (TenWebs)
