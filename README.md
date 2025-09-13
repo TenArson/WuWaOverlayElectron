@@ -20,6 +20,8 @@ F3 → Hide overlay
 
 F4 → Toggle interactive / opaque
 
+F5 → Close the overlay as a whole
+
 How to install (for non-GitHub users)
 
 1.Go to this repo: WuWaOverlayElectron
